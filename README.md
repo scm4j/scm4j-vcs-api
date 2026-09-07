@@ -2,6 +2,9 @@
 [![Build Status](https://travis-ci.org/scm4j/scm4j-vcs-api.svg?branch=master)](https://travis-ci.org/scm4j/scm4j-vcs-api)
 [![Coverage Status](https://coveralls.io/repos/github/scm4j/scm4j-vcs-api/badge.svg?branch=master)](https://coveralls.io/github/scm4j/scm4j-vcs-api?branch=master) 
 
+> [!IMPORTANT]
+> This repository is no longer maintained as a standalone project. Development has moved to the [untillpro/scm4j monorepo](https://github.com/untillpro/scm4j), where this project is located in the `scm4j-vcs-api` subdirectory. Please submit new issues and pull requests in the monorepo. This repository is retained for historical reference.
+
 # Overview
 scm4j-vcs-api is set of base classes and interfaces to build VCS support (Git, SVN, etc) libraries which exposes basic vcs-related operations: merge, branch create etc.
 scm4j-vcs-api provides:
